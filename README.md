@@ -1,1 +1,1 @@
-# AMP
+# Antimicrobic-Peptide-Generation
